@@ -4,7 +4,7 @@
 <!-- ===================== -->
 
 <h1 align="center">Hi 👋, I'm Paul Mutula</h1>
-<h3 align="center">Cyber Security Analyst | Digital Defender | Threat Hunter</h3>
+<h3 align="center">Cyber Security Analyst | Digital Defender | Threat Hunter | ICT Infrastructure</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00FF9C&center=true&vCenter=true&width=500&lines=Cyber+Security+Analyst;Threat+Detection+%26+Risk+Mitigation;Network+%26+System+Security;Always+Learning+Always+Securing" />
@@ -14,7 +14,7 @@
 
 ## 🛡️ About Me
 
-🔐 I am a **Cyber Security Analyst** passionate about protecting systems, networks, and data from cyber threats.  
+🔐 I am a **Cyber Security Analyst** passionate about protecting systems, networks, ICT infrastructure in general and data from cyber threats.  
 💻 I specialize in **threat analysis, vulnerability assessment, security monitoring, and incident response**.  
 🌍 Based in **Kenya**, with a strong interest in securing digital infrastructures across Africa and beyond.  
 📚 Constantly learning and staying updated with the latest cyber threats and defense strategies.
@@ -80,10 +80,10 @@
 ## 📫 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/" target="_blank">
+  <a href="https://www.linkedin.com/in/paulmutula123/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:paulnyawamtula@gmail.com">
     <img src="https://img.shields.io/badge/Email-00C853?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
