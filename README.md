@@ -4,7 +4,7 @@
 <!-- ===================== -->
 
 <h1 align="center">Hi 👋, I'm Paul Mutula</h1>
-<h3 align="center">Cyber Security Analyst | Digital Defender | Threat Hunter | ICT Infrastructure</h3>
+<h3 align="center">Cyber Security Analyst | Digital Defender | Threat Hunter | ICT Infrastructure Manager</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00FF9C&center=true&vCenter=true&width=500&lines=Cyber+Security+Analyst;Threat+Detection+%26+Risk+Mitigation;Network+%26+System+Security;Always+Learning+Always+Securing" />
