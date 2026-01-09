@@ -26,6 +26,7 @@
 - 🛡️ Cyber Security Operations (SOC)
 - 🔍 Threat Detection & Incident Response
 - 🧪 Vulnerability Assessment & Penetration Testing
+- 📊 ICT Infrastructure Management (Networking, Servers, Databases)
 - 🌐 Network Security & Firewalls
 - 🖥️ System Hardening (Windows & Linux)
 - 📊 Risk Assessment & Security Audits
@@ -37,7 +38,7 @@
 ## 🧰 Tools & Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,windows,bash,python,git,github,wireshark,vscode" />
+  <img src="https://skillicons.dev/icons?i=linux,windows,bash,nessus,python,git,github,wireshark,vscode" />
 </p>
 
 **Security Tools & Platforms**
@@ -85,6 +86,9 @@
   </a>
   <a href="mailto:paulnyawamtula@gmail.com">
     <img src="https://img.shields.io/badge/Email-00C853?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.facebook.com/in/paul.nyawa.3/" target="_blank">
+    <img src="https://img.shields.io/badge/facebook-0A66C2?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
 </p>
 
